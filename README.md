@@ -16,6 +16,8 @@ Here is some good advice:
  - stay out of the sun
 
 
+# Stacked PR example
 
+ - See [this document](document.md)
 
 
