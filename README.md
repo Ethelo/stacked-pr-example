@@ -11,6 +11,10 @@ Here is some good advice:
 
 
 
+# Recommendations
+
+ - stay out of the sun
+
 
 
 
