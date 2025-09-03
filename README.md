@@ -1,3 +1,10 @@
-# Hello, this is a Readme! It's empty, we should change that
+# Hello, this is a Readme!
+
+
+# Advice
+
+
+Here is some good advice: never leave your keys in the car.
+
 
 
